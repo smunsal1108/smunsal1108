@@ -1,16 +1,17 @@
-### Hi there 👋
+#  ACERCA DE MÍ 👋
+-------------
 
-<!--
-**smunsal1108/smunsal1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy un estudiante en preparación, que está estudiando la Formación Profesional de Desarrollo de Aplicaciones Web (DAW). Estoy dedicado a aprender y avanzar en el mundo de la informáctica.
 
-Here are some ideas to get you started:
+### APRENDIZAJE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Lenguaje de marcas.
+- Programación.
+  - Lenguajes de programación: Java.
+- Base de datos.
+- Sistemas informáticos.
+- Entorno de Desarrollo
+
+### IMAGEN DE EJEMPLO
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.20minutos.es%2Fviajes%2Fdestinos%2Fplaza-espana-sevilla-curiosidades-peliculas-turismo-monumentos-historia-5168439%2F&psig=AOvVaw16iD0kb6MBlriO60SApp9p&ust=1710352611272000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDB_pKm74QDFQAAAAAdAAAAABAE)
